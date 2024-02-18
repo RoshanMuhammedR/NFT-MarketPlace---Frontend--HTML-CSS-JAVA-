@@ -25,4 +25,24 @@
         left: 50%;
         transform: translateX(-50%);
     }
+
+    .about{
+        padding: 3em;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .about-details{
+        flex-direction: column;
+    }
+
+    .about-detail-text-button{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
 }
