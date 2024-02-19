@@ -7,7 +7,8 @@
 
 html {
     overflow-x: hidden;
-  }
+    glyph-orientation-vertical: auto;
+}
 .nav-bar{
     height: 60px;
     background-color: #131921;
