@@ -12,7 +12,7 @@
     color: white;
     display:flex;
     align-items: center;
-    justify-content: space-around
+    justify-content: space-around;
 }
 
 .nav-logo{
@@ -32,6 +32,7 @@
 
 .sign-in{
     display: flex;
+    font-size: .7em;
     justify-content: center;
     align-items: center;
     background-color:#DA914E ;
@@ -126,10 +127,7 @@
     background-color: #140D07;
 }
 
-.about{
-    display: flex;
-    flex-direction: column;
-}
+
 
 .about-heading{
     display: flex;
