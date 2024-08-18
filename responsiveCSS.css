@@ -11,7 +11,7 @@
         border: none;
 
     }
-
+    /* line */
     .roadmap .checkpoint::before{
         width: 3px;
         height: 4em;
@@ -19,7 +19,7 @@
         left: 50%;
         transform: translateX(-50%);
     }
-
+    /* dot */
     .roadmap .checkpoint div::before{
         top: -0.5em;
         left: 50%;

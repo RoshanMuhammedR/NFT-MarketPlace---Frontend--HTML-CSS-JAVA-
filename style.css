@@ -9,6 +9,8 @@ html {
     overflow-x: hidden;
 
 }
+
+/* nav-bar */
 .nav-bar{
     height: 60px;
     background-color: #131921;
@@ -61,6 +63,8 @@ a {
     width: 100px;
     border-radius: 10px;
 }
+
+/* heroes */
 
 .heroes{
     height: 750px;
@@ -141,6 +145,8 @@ a {
     background-color: rgba(255, 255, 255, 0.05);
     border-radius: 15px;
 }
+
+/* about */
 
 .about-master{
     padding: 2em;
@@ -419,6 +425,9 @@ h2{
     transform: translateX(-17em);
 }
 
+
+/* line */
+
 .checkpoint:nth-child(odd)::before,
 .checkpoint:nth-child(even)::before {
     content: '';
@@ -476,6 +485,7 @@ h2{
     right: -0.5em;
 }
 
+/* how-it-works*/
 
 .work{
     padding: 10em;
@@ -572,7 +582,3 @@ h2{
 }
 
 
-.checker{
-    height: 3em;
-    background-color: yellowgreen;
-}
